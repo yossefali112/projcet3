@@ -287,13 +287,14 @@ h2 {
 justify-content: space-around;}
 
 .common-right{position: sticky;
-top: 5;}
+top: 20;
+align-items: start;
+display: inline-block;}
 
-.common-top{position: sticky;
-top: 40;}
-
-.common-bootom{position: sticky;
-top: 40;}
+ .common-right .container10{
+    position: sticky;
+    top: 0;
+}
 
 
 .button1{
