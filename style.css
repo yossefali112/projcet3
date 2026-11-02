@@ -132,7 +132,8 @@ background-color: rgba(0, 0, 0, 0.149);
 position: absolute;
 top: 20px;
 left: 50px;
-transform: rotate(30deg);}
+transform: rotate(30deg);
+z-index: -1;}
 
 .sq1 {width: 200px;
     height: 200px;
@@ -140,7 +141,8 @@ background-color: rgba(0, 0, 0, 0.149);
 position: absolute;
 bottom: 60px;
 right: 650px;
-transform: rotate(30deg);}
+transform: rotate(30deg);
+z-index: -1;}
 
 
 .LATEST-ARTICLES{background-color: white;}
