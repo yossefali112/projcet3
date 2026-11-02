@@ -1,0 +1,175 @@
+@media screen and (max-width:768px) { 
+    .navbar .centernavbar{ display: none;}
+    .navbar .rightnavbar{display: none;}
+    .contanier1{display: block;}
+    .title1 .p1{width: 500px;}
+    .title2 img{width: 400px;
+    margin-top: 40px;}
+}
+@media screen and (max-width:1024px) { 
+    .navbar .centernavbar{ display: none;}
+    .navbar .rightnavbar{display: none;}
+    .contanier1{display: block;}
+    .title1 .p1{width: 500px;}
+    .title2 img{width: 400px;
+    margin-top: 40px;}
+}
+@media screen and (max-width:576px) { 
+    .navbar .centernavbar{ display: none;}
+    .navbar .rightnavbar{display: none;}
+    .contanier1{display: block;}
+    .title1 .p1{width: 500px;}
+    .title2 img{width: 400px;
+    margin-top: 40px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+.card1{display: block;
+width: 200px;}
+.tag1{display: block;}
+.cont{display: block;
+}
+.container{display: block;}
+}
+@media screen and (max-width:768px) {
+    .card1{display: block;
+width: 400px;}
+.tag1{display: block;}
+.common-left{display: block;}
+ .cont{display: block;
+}
+.container{display: block;}
+}
+@media screen and (max-width:1024px) {
+    .card1{display: block;
+width: 400px;}
+.tag1{display: block;}
+.common-left{display: block;}
+.cont{display: block;
+}
+.container{display: block;}
+}
+
+
+
+@media screen and (max-width:576px) {
+
+
+.container4{display: block;}
+
+
+
+
+}
+
+@media screen and (max-width:768px){
+
+
+.container4{display:flex;
+flex-wrap: wrap;}
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px){
+
+
+.container4{display:flex;
+flex-wrap: wrap;}
+
+.container3{ width: 200px;}
+
+}
+
+
+
+@media screen and (max-width:576px) {
+
+
+.container6{display: block;}
+
+
+
+
+}
+
+
+@media screen and (max-width:768px){
+
+
+.container6{width: 500px;}
+
+.container6{display: block;}
+
+.item-left {width: 200px;}
+
+
+
+}
+
+
+
+@media screen and (max-width:1024px){
+    
+    
+    .container6{display: block;}
+
+.container{width: 500px;}
+
+
+}
+
+
+@media screen and (max-width:576px){
+
+
+.container7{display: block;}
+
+
+
+
+}
+
+
+
+@media screen and (max-width:768px){
+
+
+.container7{display: block;}
+
+
+
+}
+
+
+@media screen and (max-width:1024px){
+
+
+
+
+.container7{display: block;}
+
+
+
+
+}
+
+
